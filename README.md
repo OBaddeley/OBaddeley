@@ -2,6 +2,8 @@
 
 ![waving](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTR1Mjg2YjZ2emxuZHlhaXhldzFsZzAzMjNrdHc3a3V3ZW1xdGFyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SUbYK8slyVWbmHc5R9/giphy.gif)
 
+<img width="1056" height="736" alt="ascii-rest-aquarium" src="https://github.com/user-attachments/assets/87a4923b-3f9a-4567-b3d2-4a4f4874ce08" />
+
 <!--
 **OBaddeley/OBaddeley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
